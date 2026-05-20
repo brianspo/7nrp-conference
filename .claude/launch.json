@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "slidev-native-v2",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev:native:v2"],
+      "port": 3032
+    }
+  ]
+}
