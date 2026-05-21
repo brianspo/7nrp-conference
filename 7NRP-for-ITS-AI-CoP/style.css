@@ -1505,7 +1505,7 @@
 }
 
 .v2-donut-b {
-  left: 17%;
+  left: 10%;
   top: 42%;
 }
 
@@ -1513,7 +1513,6 @@
   top: 2%;
   left: 48%;
   color: #fff;
-  outline-color: #000;
 }
 
 .v2-steps {

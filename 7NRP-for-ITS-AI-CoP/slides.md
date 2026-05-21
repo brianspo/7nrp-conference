@@ -254,14 +254,13 @@ The takeaway for us: if we have faculty or students who want to experiment with 
 
 ---
 
-
 <V2Frame kicker="WHO USES NRP" title="Researchers, instructors, students" page="10 / 23">
 
 <div class="v2-usage">
   <div class="v2-donut" aria-label="User mix: 73% R1, 25% non-R1, 2% other">
-    <b class="v2-donut-a">73%</b>
-    <b class="v2-donut-b">25%</b>
-    <b class="v2-donut-c">2%</b>
+    <b class="v2-donut-a">73%<br>R1</b>
+    <b class="v2-donut-b">25%<br>Non-R1</b>
+    <b class="v2-donut-c">2%<br>Other</b>
   </div>
   <div class="v2-stack">
     <div><b>More non-R1 than R1 institutions</b><span>97 non-research-intensive institutions vs. 54 R1s.</span></div>
