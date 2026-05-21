@@ -15,9 +15,9 @@ fonts:
 
 <p class="v2-cover-kicker">THE NATIONAL RESEARCH PLATFORM</p>
 
-# Insights from 7NRP, and what they mean for Cal Poly
+# Insights from the 7NRP Conference, and implications for Cal Poly
 
-<p class="v2-cover-meta"><strong>Brian Spolarich</strong> · ITS AI Community of Practice · May 2026</p>
+<p class="v2-cover-meta"><strong>Brian Spolarich</strong> · AVP/CTO · ITS AI Community of Practice · May 2026</p>
 
 </V2Frame>
 
@@ -198,7 +198,6 @@ For us in IT: when a faculty member says "I want my students to use the cloud" o
 
 ---
 
-
 <V2Frame kicker="AI INFERENCE-AS-A-SERVICE" title="Free access to open-weight LLMs" page="8 / 23">
 
 <div class="v2-split">
@@ -206,11 +205,11 @@ For us in IT: when a faculty member says "I want my students to use the cloud" o
     <li><b>nrp.ai</b><span>Single sign-on via CILogon → campus IdP</span></li>
     <li><b>nrp.ai/llmtoken</b><span>OpenAI-style bearer token</span></li>
     <li><b>API Gateway</b><span>Token check, model routing, usage logging</span></li>
-    <li><b>vLLM pods</b><span>10 frontier open-weight models on call</span></li>
+    <li><b>vLLM GPU pods</b><span>10 frontier open-weight models on call (e.g. Gemma, Qwen3, GPT-OSS)</span></li>
   </ol>
   <div class="v2-callout">
     <b>Why it matters</b>
-    <span>It gives research and teaching workflows a free, federated alternative to commercial inference, with usage tied back to campus identity.</span>
+    <span>It gives research and teaching workflows a free, federated alternative to commercial inference services, with usage tied back to campus identity.</span>
   </div>
 </div>
 
@@ -321,7 +320,6 @@ The CSU campuses on the platform — SDSU, San Bernardino, Fullerton, Humboldt �
 
 ---
 
-
 <V2Frame kicker="CAL POLY TODAY" title="What's already happening at Cal Poly" page="12 / 23">
 
 <div class="v2-metric-wall compact">
@@ -332,7 +330,7 @@ The CSU campuses on the platform — SDSU, San Bernardino, Fullerton, Humboldt �
   <div><strong>98</strong><b>avg GPU hrs / day</b></div>
   <div><strong>1K</strong><b>avg CPU hrs / day</b></div>
 </div>
-
+<p style="font-style: italic;"> Active NRP usage over the past 12 months. </p>
 <p class="v2-source">Source: NRP Grafana usage dashboard, Cal Poly namespaces, May 2026.</p>
 
 </V2Frame>

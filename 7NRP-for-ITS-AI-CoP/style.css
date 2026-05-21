@@ -1512,7 +1512,8 @@
 .v2-donut-c {
   top: 2%;
   left: 48%;
-  color: var(--v2-ink) !important;
+  color: #fff;
+  outline-color: #000;
 }
 
 .v2-steps {
